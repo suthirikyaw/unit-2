@@ -7,6 +7,6 @@ Components in a CPU
 - Registers : small amounts of high-speed temporary memories that stores information
 - Internal clock: measures the number of cycles the CPU executes per second, it keeps the operations synchronised. 
 
-                     
+![](image.png)                     
                       
                
