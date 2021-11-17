@@ -1,3 +1,5 @@
+![](IMG_0095.PNG)
+
 ```.py
 def wordlength(lst):
     sum = 0
@@ -22,4 +24,3 @@ C:\Users\ASUS\PycharmProjects\pythonProject2\venv\Scripts\python.exe C:/Users/AS
 Process finished with exit code 0
 ```
 
-![](IMG_0095.PNG)
