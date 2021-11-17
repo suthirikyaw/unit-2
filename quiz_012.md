@@ -20,3 +20,6 @@ C:\Users\ASUS\PycharmProjects\pythonProject2\venv\Scripts\python.exe C:/Users/AS
 4.8
 
 Process finished with exit code 0
+```
+
+![](IMG_0095.PNG)
