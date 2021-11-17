@@ -67,11 +67,14 @@ digitalWrite(pin4, HIGH);;
 delay(waitTime);
 }
 
+```
+
 # 3-bit LED Binary counter with buttons #
 
+![](IMG_0094.PNG)
 
 ```.C
-// 
+ 
 //variables for the LEDs
 int pin2 = 2;
 int pin3 = 3;
