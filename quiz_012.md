@@ -1,4 +1,4 @@
-![](IMG_0095.PNG)
+![](IMG_0095.png)
 
 ```.py
 def wordlength(lst):
