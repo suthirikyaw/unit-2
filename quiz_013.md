@@ -1,3 +1,5 @@
+![](IMG_0096.png)
+
 ```.py
 
 def total(items, amount):
