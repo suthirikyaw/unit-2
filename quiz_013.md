@@ -26,3 +26,8 @@ items_ordered = ["bread", "beer", "ipad"]
 amount_ordered = [300, 800, 30000]
 total_pay = total(items=items_ordered, amount=amount_ordered)
 print(f"Pay {total_pay}")
+
+C:\Users\ASUS\PycharmProjects\pythonProject2\venv\Scripts\python.exe C:/Users/ASUS/PycharmProjects/pythonProject2/main.py
+Pay 35790.0
+
+Process finished with exit code 0
