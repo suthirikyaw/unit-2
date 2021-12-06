@@ -11,3 +11,8 @@ def swap2(str):
 
 output = swap2("01ABxy")
 print(output)
+
+C:\Users\ASUS\PycharmProjects\pythonProject2\venv\Scripts\python.exe C:/Users/ASUS/PycharmProjects/pythonProject2/main.py
+10BAyx
+
+Process finished with exit code 0
