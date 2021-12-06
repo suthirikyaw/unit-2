@@ -19,3 +19,9 @@ print(output)
 
 output = mirrorTime(12)
 print(output)
+
+C:\Users\ASUS\PycharmProjects\pythonProject2\venv\Scripts\python.exe C:/Users/ASUS/PycharmProjects/pythonProject2/main.py
+('11:11', '11:11')
+('12:12', '12:21')
+
+Process finished with exit code 0
