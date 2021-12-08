@@ -1,3 +1,5 @@
+![](IMG_0250.PNG)
+
 ```.py
 
 def sum67(nums):
